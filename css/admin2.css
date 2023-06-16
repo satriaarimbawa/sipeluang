@@ -1,0 +1,19 @@
+body{
+    background-color: #c9c9c9;
+}
+.regis{
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn-regis{
+    border: none;
+    background: red;
+    margin-left: 85%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.form-control{
+    width: 270%;
+}

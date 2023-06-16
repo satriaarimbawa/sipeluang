@@ -1,0 +1,101 @@
+/* tambah daftar spj */
+body{
+  background-color: #c9c9c9;
+}
+
+.formulir-spj {
+  background-color: white;
+  padding: 0px;
+  margin-top: 30px;
+  color: black;
+}
+.form-spj{
+  padding-left: 10px;
+}
+.submit input{
+    margin-left: 25%;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.tabel {
+  font-family: sans-serif;
+  color: #444;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #c9c9c9;
+  margin: 20px;
+}
+
+.tabel th td {
+  padding: 10px 20px;
+  text-align: center;
+}
+
+.tabel tr:hover {
+  background-color: #c9c9c9;
+}
+
+.tabel tr:nth-child(even) {
+  background-color: #c9c9c9;
+}
+.btn-new {
+  background: red;
+  margin: 20px;
+}
+.btn-new a {
+  color: white;
+  text-decoration: none;
+}
+.btn-bar {
+  background: red;
+  color: white;
+  margin-left: 10px;
+}
+.navbar-ad {
+  background-color: red;
+}
+.tabel{
+    text-align: center;
+}
+.tabel tr th {
+  background: red;
+  color: #fff;
+  font-weight: normal;
+}
+.btn-kwi {
+  background-color: red;
+  margin: 20px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+.btn-kwi a {
+  color: white;
+  text-decoration: none;
+}
+.form-sppd{
+  margin-top: 30px;
+  background-color: white;
+  padding: 0px;
+  margin-bottom: 30px;
+  color: black;
+}
+.form-control{
+    width: 200%;
+}
+.btn-spj{
+  margin-left: 260%;
+}
+.co1{
+  width: 100%;
+}
+.formulir-sppd{
+  padding: 10px;
+}
+.wrap{
+  width: 97%;
+}
